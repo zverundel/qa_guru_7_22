@@ -1,0 +1,5 @@
+pytest
+allure-pytest
+selene>=2.0.0rc4
+pydantic_settings
+Appium-Python-Client
